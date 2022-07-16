@@ -20,7 +20,7 @@ Para  realização deste projeto foram utilizados:
 
 -Componente com um nav , que permite voltar para página home, ele deve aparecer em todas as páginas.ㅤ
 
-### Pagina de Perguntas
+### Página de Perguntas
 
 -Página onde é possível visualizar e fazer qualquer pergunta.
 
