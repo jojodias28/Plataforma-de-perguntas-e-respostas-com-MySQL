@@ -18,15 +18,15 @@ Para  realização deste projeto foram utilizados:
 
 ### Header
 
--Componente com um nav , que permite que você volte para página home, ele deve aparecer em todas as páginas.ㅤ
+-Componente com um nav , que permite voltar para página home, ele deve aparecer em todas as páginas.ㅤ
 
 ### Pagina de Perguntas
 
--Página onde você consegue acessar e fazer qualquer pergunta.
+-Página onde é possível visualizar e fazer qualquer pergunta.
 
 ### Página Respostas
 
--Página onde você consegue responder e visualizar todas as respostas da determinada pergunta.
+-Página onde é possível responder e visualizar todas as respostas de uma determinada pergunta.
 
 
 ## [Acesse o site aqui](http://159.223.155.169)
