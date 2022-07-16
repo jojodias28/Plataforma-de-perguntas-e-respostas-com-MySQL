@@ -4,7 +4,7 @@
 
 ## Objetivo do Projeto
 
-A proposta foi desenvolver uma aplicação de perguntas e respostas no estilo YahooRespostas.
+A proposta foi desenvolver uma aplicação de perguntas e respostas anônimas no estilo YahooRespostas.
 
 Para  realização deste projeto foram utilizados:
 
