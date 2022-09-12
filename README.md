@@ -27,6 +27,3 @@ Para  realização deste projeto foram utilizados:
 ### Página Respostas
 
 -Página onde é possível responder e visualizar todas as respostas de uma determinada pergunta.
-
-
-## [Acesse o site aqui](http://159.223.155.169)
